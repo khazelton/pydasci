@@ -1,0 +1,6 @@
+# requirements_dev.in
+
+jupyter 
+jupytext
+pipdeptree
+when-changed 
